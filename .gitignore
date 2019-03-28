@@ -38,3 +38,6 @@ rsconnect/
 
 .Rproj
 .DS_Store
+
+.pdf
+.html
