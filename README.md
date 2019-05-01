@@ -1,5 +1,5 @@
 # ggplot_workshop
-NYU Stats CLub ggplot Workshop
+NYU Stats Club ggplot Workshop
 
 3/28/2019
 
