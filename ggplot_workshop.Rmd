@@ -4,8 +4,10 @@ author: "Your Name"
 date: "3/29/2019"
 output: 
   html_document:
-    toc: true
-    theme: united
+        toc: yes
+        theme: cerulean
+        highlight: tango
+        code_folding: hide
 ---
 
 ###Preps
